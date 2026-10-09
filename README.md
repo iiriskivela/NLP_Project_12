@@ -6,7 +6,7 @@ this project looks at talking lines from 10 main people in the book pride and pr
 
 ### run in google colab
 1. open google colab
-2. upload the file pride_and_prejudice_dialogue_analysis.ipynb
+2. upload the file project_12.ipynb
 3. click runtime and then run all. the first block will install all tools and download the book.
 
 ### run on your computer
@@ -14,7 +14,7 @@ this project looks at talking lines from 10 main people in the book pride and pr
 2. install the tools in your terminal:
 pip install nltk pandas numpy scipy matplotlib seaborn scikit-learn empath transformers sentence-transformers
 3. open the notebook:
-jupyter notebook pride_and_prejudice_dialogue_analysis.ipynb
+jupyter notebook project_12.ipynb
 
 ## tools and versions
 
@@ -33,7 +33,7 @@ transformers==4.42.0
 
 ## task list and report tables
 
-all tasks are inside pride_and_prejudice_dialogue_analysis.ipynb. each block has a comment like # task x: to show what it does.
+all tasks are inside project_12.ipynb. each block has a comment like # task x: to show what it does.
 
 - task 1 (cell 1 and 2): counts character names in the book and in talking parts. makes the table for character mentions and citations.
 - task 2 (cell 3): gets dialogue lines and counts words, nouns, verbs, and adjectives. makes the table for word counts and parts of speech.
