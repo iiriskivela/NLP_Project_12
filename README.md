@@ -2,6 +2,8 @@
 
 this project looks at talking lines from 10 main people in the book pride and prejudice. everything is in one jupyter notebook file.
 
+you do not need to run the code to see the results. you can see all tables and plots just by clicking and opening project_12.ipynb here on github.
+
 ## how to run
 
 ### run in google colab
